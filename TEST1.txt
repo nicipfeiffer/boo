@@ -1,7 +1,7 @@
 Here is another test file
 and now i am changing it ever so slightly.
 
-
+a change
 
 Setting up the OSF
 Work in Progress, please add or edit as necessary.
